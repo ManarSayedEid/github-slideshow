@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Welcome to Manar's page!
 Use the left arrow to go back!
